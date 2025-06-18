@@ -1,7 +1,7 @@
 # Look-Back and Look-Ahead Adaptive Model Predictive Control (LLA-MPC)
 
 <div align="center">
-IROS 2025 
+This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control for Autonomous Racing" that was accepted in IROS 2025
 </div>
 
 
@@ -9,7 +9,6 @@ IROS 2025
 <img src="results/LLA-MPC.jpg" width="600px"/>
 </div>
 
-This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control for Autonomous Racing":
 
 ```bibtex
 @article{alsunni2025llampc,
