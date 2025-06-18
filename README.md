@@ -10,6 +10,10 @@ This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control 
 </div>
 
 
+# BibTeX
+
+If you find this repo useful, please consider citing our paper:
+
 ```bibtex
 @article{alsunni2025llampc,
   title={LLA-MPC: Fast Adaptive Control for Autonomous Racing},
