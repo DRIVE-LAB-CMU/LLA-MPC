@@ -7,7 +7,7 @@
 This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control for Autonomous Racing":
 
 ```bibtex
-@article{al2025lla,
+@article{alsunni2025llampc,
   title={LLA-MPC: Fast Adaptive Control for Autonomous Racing},
   author={AL-Sunni, Maitham F and Almubarak, Hassan and Horng, Katherine and Dolan, John M},
   journal={arXiv preprint arXiv:2505.19512},
