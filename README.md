@@ -1,6 +1,8 @@
 # Look-Back and Look-Ahead Adaptive Model Predictive Control (LLA-MPC)
 
 <div align="center">
+IROS 2025
+
 <img src="results/LLA-MPC.jpg" width="600px"/>
 </div>
 
