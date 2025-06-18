@@ -7,14 +7,11 @@
 This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control for Autonomous Racing":
 
 ```bibtex
-@misc{xue2024fullordersamplingbasedmpctorquelevel,
-      title={Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing}, 
-      author={Haoru Xue and Chaoyi Pan and Zeji Yi and Guannan Qu and Guanya Shi},
-      year={2024},
-      eprint={2409.15610},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2409.15610}, 
+@article{al2025lla,
+  title={LLA-MPC: Fast Adaptive Control for Autonomous Racing},
+  author={AL-Sunni, Maitham F and Almubarak, Hassan and Horng, Katherine and Dolan, John M},
+  journal={arXiv preprint arXiv:2505.19512},
+  year={2025}
 }
 ```
 
