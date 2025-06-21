@@ -1,6 +1,7 @@
 # LLA-MPC: Fast Adaptive Control for Autonomous Racing
 
-This repository contains the code for the paper "LLA-MPC: Fast Adaptive Control for Autonomous Racing" that was accepted in IROS 2025
+This repository contains the code for the paper "[LLA-MPC: Fast Adaptive Control for Autonomous Racing](https://arxiv.org/abs/2505.19512)" that was accepted in IROS 2025
+
 
 
 <div align="center">
