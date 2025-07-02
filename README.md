@@ -288,7 +288,20 @@ cd LLA-MPC/
 pip install -e .
 ```
 
+Install ffmpeg for writing results to mp4:
+```
+sudo apt-get install ffmpeg
+```
+
+
 ## LLA-MPC
+Go to the folder `LLA-MPC/llampc/mpc`
+
+If you want LaTeX.-formatted outlines, install LaTeX. Otherwise, open `python run_nmpc_orca_llampc_rt.py`and comment out the following line
+
+```
+plt.rcParams['text.usetex'] = True
+```
 
 Run LLA-MPC  controller with the generated offline library of racelines as reference as follows:-
 ```
