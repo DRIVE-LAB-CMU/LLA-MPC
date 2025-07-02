@@ -74,7 +74,7 @@ params = {'legend.fontsize': 'xx-large',
          'xtick.labelsize':'xx-large',
          'ytick.labelsize':'xx-large'}
 pylab.rcParams.update(params)
-plt.rcParams['text.usetex'] = True
+# plt.rcParams['text.usetex'] = True
 
 # n_cores = mp.cpu_count()
 # print("number of cores is: ",n_cores)
